@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e654d077-1dfc-4957-ac19-1f87429c9084" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Album.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Book.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LibraryItem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AlbumTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/BookTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/LibraryTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MovieTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mseng12"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mseng12/software-dev-course-oop-3",
+    "accountId": "57910382-7d39-454e-a39d-b10003d31561"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -47,16 +51,39 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.AlbumTests.executor": "Run",
     "JUnit.All in software-dev-course-oop-3.executor": "Run",
+    "JUnit.BookTests.executor": "Run",
+    "JUnit.LibraryTests.executor": "Run",
+    "JUnit.MovieTests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mikel/projects/java/software-dev-course-oop-3/pom.xml"
+    "last_opened_file_path": "C:/Users/Mat/Launchcode-2026-Practice-Assignments/software-dev-course-oop-3",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MovieTests">
+    <configuration name="AlbumTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-oop-3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AlbumTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All in software-dev-course-oop-3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-oop-3" />
       <option name="PACKAGE_NAME" value="" />
@@ -65,11 +92,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BookTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-oop-3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.BookTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-oop-3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.LibraryTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-oop-3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MovieTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MovieTests" />
+        <item itemvalue="JUnit.LibraryTests" />
+        <item itemvalue="JUnit.BookTests" />
+        <item itemvalue="JUnit.AlbumTests" />
         <item itemvalue="JUnit.All in software-dev-course-oop-3" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,5 +165,8 @@
       <updated>1738943626804</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
